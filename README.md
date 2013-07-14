@@ -1,5 +1,6 @@
 agsxmpp
 =======
+NOTE: I'm not affiliated with AG-software so I can't change the original codebase. 
 
 agsxmpp - facebook chat fixes 
 
